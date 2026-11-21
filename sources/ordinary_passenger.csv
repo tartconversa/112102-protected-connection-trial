@@ -1,0 +1,13 @@
+observation,hub,week,pool,guests,missed,complete
+Neast1,east,1,P1,31,3,yes
+Neast2,east,2,P2,32,4,yes
+Neast3,east,3,P3,33,5,yes
+Neast4,east,4,P4,34,6,yes
+Neast5,east,5,P5,35,7,yes
+Neast6,east,6,P6,36,2,yes
+Nwest1,west,1,P1,32,4,yes
+Nwest2,west,2,P2,33,,no
+Nwest3,west,3,P3,34,6,yes
+Nwest4,west,4,P4,35,7,yes
+Nwest5,west,5,P5,36,2,yes
+Nwest6,west,6,P6,37,3,yes

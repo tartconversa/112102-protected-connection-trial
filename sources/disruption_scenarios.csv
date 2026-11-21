@@ -1,0 +1,4 @@
+scenario,window,hub,simultaneous_group,missed_parties,seats
+S1,W7,east,WX1,2,4
+S2,W7,west,WX1,3,6
+S3,W7,west,WX2,1,2

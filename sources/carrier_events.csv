@@ -1,0 +1,5 @@
+event,order,pool,hub,seats,state,day
+CE1,O1,P7,west,3,confirmed,43
+CE2,O2,P7,east,2,offered,44
+CE3,O1,P7,west,3,carrier_accepted,48
+CE4,O2,P7,east,2,released,49

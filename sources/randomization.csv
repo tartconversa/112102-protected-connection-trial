@@ -1,0 +1,13 @@
+block,hub,week,group,pool
+Beast1,east,1,protection,P1
+Beast2,east,2,protection,P2
+Beast3,east,3,ordinary,P3
+Beast4,east,4,protection,P4
+Beast5,east,5,protection,P5
+Beast6,east,6,ordinary,P6
+Bwest1,west,1,ordinary,P1
+Bwest2,west,2,protection,P2
+Bwest3,west,3,ordinary,P3
+Bwest4,west,4,ordinary,P4
+Bwest5,west,5,protection,P5
+Bwest6,west,6,ordinary,P6

@@ -1,0 +1,4 @@
+contract,pool,hub,window,seats,priority,available_day
+C1,P7,east,W7,8,confirmed_first,42
+C2,P7,west,W7,8,confirmed_first,42
+C3,P7,east,W7,5,confirmed_first,47
